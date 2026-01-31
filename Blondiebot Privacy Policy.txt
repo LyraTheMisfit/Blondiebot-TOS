@@ -1,0 +1,47 @@
+Blondiebot Privacy Policy
+
+Last Updated: [31/01/2026]
+
+1. Introduction
+
+Welcome to Blondiebot! We value your privacy. This Privacy Policy explains how we handle any data associated with the use of the Blondiebot Discord bot ("Bot"). By using the Bot, you agree to the practices outlined in this policy.
+
+2. Data We Collect
+
+Blondiebot does not collect or store any personal information from users, such as names, emails, or private messages. We do not track users across servers or share any information with third parties.
+
+However, the following data may be processed for operational purposes:
+
+Guild Settings: When you configure settings for your server (e.g., welcome channels), this data is stored in a local settings file on the bot's host machine. This information is stored at the server (guild) level and is not linked to individual users.
+
+Bot Interactions: When interacting with the bot (e.g., running commands like /welcome, /pp, or /love), the bot may log the interaction to provide responses but does not store personal data beyond what's necessary to perform these interactions.
+
+3. Data Retention
+
+Settings such as welcome message configurations are stored in a local file (guild_Settings.json). These settings are retained until updated or deleted by the server administrators. No personal information is retained or stored.
+
+Logs are stored in a file (discord.log) and are used only for debugging, error tracking, and logging the bot's operational events (e.g., bot start and stop). Logs do not contain personal data and are retained for operational purposes only.
+
+4. No Personal Data Sharing
+
+Blondiebot does not share, sell, or disclose any personal data to third parties. The bot operates purely within the Discord environment and does not engage in external data sharing or tracking.
+
+5. Third-Party Services
+
+Blondiebot does not use any third-party services or APIs that collect personal data. The bot operates independently, relying only on Discord's official API and internal mechanisms to perform its functionality.
+
+6. User Responsibilities
+
+As a user or server administrator, you are responsible for ensuring that your use of Blondiebot complies with all applicable Discord Terms of Service and community guidelines. If you choose to share personal information within your server or to interact with Blondiebot, such information remains within the Discord environment and is not collected by the bot.
+
+7. Security
+
+We take reasonable measures to ensure that the settings and logs stored by Blondiebot are kept secure. However, please be aware that no method of data transmission over the internet is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be communicated to users through the appropriate channels, and the revised policy will be posted in this document.
+
+9. Contact
+
+If you have any questions or concerns about this Privacy Policy, feel free to reach out to the developer via LyraTheMisfit on Discord or thisjeppie@gmail.com.
