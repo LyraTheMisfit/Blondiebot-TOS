@@ -1,0 +1,57 @@
+Blondiebot Terms of Service
+
+Last Updated: [31/01/2026]
+
+By using Blondiebot, you ("User" or "You") agree to comply with and be bound by the following Terms of Service ("Terms"). If you do not agree to these Terms, please refrain from using the bot. Blondiebot is developed and maintained by LyraTheMisfit, hereafter referred to as "the Developer."
+
+1. Acceptance of Terms
+
+By using Blondiebot, you agree to these Terms and Conditions. The Developer reserves the right to modify or update these Terms at any time. It is your responsibility to check this page periodically for updates.
+
+2. Usage of Blondiebot
+
+Blondiebot is a Discord bot that provides various functionalities for users. You may use Blondiebot in any Discord server where it is invited, provided that your usage complies with Discord's Terms of Service and Community Guidelines.
+
+3. No Collection of Personal Information
+
+The Developer does not collect, store, or track any personal information from users. Blondiebot does not require or ask for any sensitive data such as your Discord credentials, private messages, or any personal identifiers unless explicitly stated for certain features (such as user settings stored on a specific server, which will not be shared or used for any other purposes).
+
+4. Data Usage
+
+Blondiebot does not collect or store any data about your activities, servers, or personal information. Any data that may be temporarily stored is solely for the purpose of providing the bot's functionality and will not be shared with third parties.
+
+5. User Conduct
+
+You agree to use Blondiebot in a manner consistent with the following:
+
+Compliance with Discord Terms: You must comply with Discord's Terms of Service and Community Guidelines.
+
+Respect for Others: You must not use Blondiebot to harass, spam, or otherwise disrupt other users or servers.
+
+Appropriate Content: Do not use Blondiebot to share or interact with any inappropriate, offensive, or harmful content.
+
+6. Limitations of Liability
+
+The Developer is not responsible for any issues that may arise from the use of Blondiebot. This includes, but is not limited to, server malfunctions, loss of functionality, or disruptions to your server.
+
+By using Blondiebot, you acknowledge that the bot is provided "as-is," and the Developer makes no guarantees regarding its availability, performance, or uptime.
+
+7. Bot Permissions
+
+When adding Blondiebot to a server, it may request certain permissions. These permissions are only used to facilitate the bot's functionality and will not be used for unauthorized purposes.
+
+8. Modifications and Termination
+
+The Developer reserves the right to modify or discontinue Blondiebot at any time, for any reason, without prior notice. You may also choose to stop using the bot at any time.
+
+9. Indemnity
+
+You agree to indemnify, defend, and hold harmless the Developer, its employees, contractors, and agents from any claims, liabilities, damages, or losses arising out of your use or misuse of Blondiebot.
+
+10. Governing Law
+
+These Terms are governed by and construed in accordance with the laws of The Netherlands, without regard to its conflict of law principles. Any disputes arising from the use of Blondiebot will be subject to the exclusive jurisdiction of the courts in The Netherlands.
+
+11. Contact Information
+
+If you have any questions or concerns regarding these Terms, please contact the Developer via LyraTheMisfit on Discord or thisjeppie@gmail.com.
